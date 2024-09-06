@@ -27,6 +27,12 @@ Additionally, logic types extend beyond basic operations to include multiplexers
 [Computational Logic](https://github.com/sourceduty/Computational_Logic)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
+<br>
+[Computational Theory](https://github.com/sourceduty/Computational_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
