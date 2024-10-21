@@ -46,6 +46,8 @@ The significance of computational mechanical measurement theory lies in its abil
 [Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 <br>
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[Logic](https://github.com/sourceduty/Logic)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
